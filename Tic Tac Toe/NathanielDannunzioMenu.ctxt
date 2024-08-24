@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NathanielDannunzioMenu
+comment1.params=
+comment1.target=void\ refresh()
+comment2.params=
+comment2.target=void\ startMenu()
+comment3.params=compDiff
+comment3.target=void\ setsMenu(int)
+comment4.params=
+comment4.target=NathanielDannunzioMenu()
+comment5.params=
+comment5.target=int\ getBestOf()
+comment6.params=
+comment6.target=int\ getCompDiff()
+comment7.params=methodBestOf
+comment7.target=void\ setBestOf(int)
+comment8.params=methodCompDiff
+comment8.target=void\ setCompDiff(int)
+numComments=9

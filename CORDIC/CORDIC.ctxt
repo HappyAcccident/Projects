@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CORDIC
+comment1.params=n
+comment1.target=double\ compute_K(int)
+comment2.params=alpha\ n
+comment2.target=double[]\ CORDIC(double,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
