@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=NathanielDannunzioTicTacToe
-comment0.text=\nNathaniel\ D'annunzio\nDate\:\ 4/19/2024\nClass\:\ AP\ Computer\ Science\ A\nProgram\ Name\:\ Tic-Tac-Toe\ Game\nProgram\ Description\:\ Allows\ the\ user\ to\ play\ Tic-Tac-Toe\ against\ another\ human\ or\ a\ computer\nDifficulties\:\ Having\ the\ user\ input\ a\ box\ to\ place\ their\ symbol.\nWhat\ I\ Learned\:\ How\ to\ combine\ all\ the\ aspects\ taught\ in\ AP\ Computer\ Science\ A,\ such\ as\ loops,\ arrays,\ method,\ classes,\ etc.\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
